@@ -11,5 +11,5 @@ divf 22 12
 1.833333
 
 # Install
-
+gcc divf.c -o divf
 sudo cp divf /usr/bin/
