@@ -3,7 +3,7 @@
 # This is untested. Use at your own risk.
 
 # Purpose
-More easily divide with float in bash
+More easily divide with float in bash to get a decimal
 
 # Usage:
 
