@@ -8,6 +8,7 @@ More easily divide with float in bash to get a decimal
 # Usage:
 
 divf 22 12
+
 1.833333
 
 # Install
