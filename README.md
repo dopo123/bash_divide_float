@@ -1,2 +1,15 @@
-# bash_math
-some basic bash math commands
+# bash_math_divide_float
+
+# This is untested. Use at your own risk.
+
+# Purpose
+More easily divide with float in bash
+
+# Usage:
+
+divf 22 12
+1.833333
+
+# Install
+
+sudo cp divf /usr/bin/
