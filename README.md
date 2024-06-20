@@ -15,3 +15,6 @@ divf 22 12
 1. gcc divf.c -o divf
 
 2. sudo cp divf /usr/bin/
+
+# Donate
+Cashapp: $RgCode10
